@@ -2,7 +2,7 @@
   "name": "bankingapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://p1regera.github.io/p1regera.github.io",
+  "homepage": "http://p1regera.github.io/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
