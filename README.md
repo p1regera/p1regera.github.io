@@ -38,16 +38,14 @@ Before you begin, ensure you have the following prerequisites:
    git clone https://github.com/yourusername/banking-app.git
    cd banking-app
    ```
-
-#### Frontend (React)
+Frontend (React)
 
    ```bash
    cd frontend
    npm install
    ```
 
-
-#### Backend (Node.js/Express)
+Backend (Node.js/Express)
 
 ```bash
 cd backend
