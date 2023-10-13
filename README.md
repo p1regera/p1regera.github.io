@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a comprehensive banking application built with React for the front end, Node.js/Express for the backend, and a MySQL database hosted on AWS. It enables users to perform various banking operations like account management, transactions, and more.
+This is a comprehensive banking application built with React for the front end, Node.js/Express for the backend, and a MySQL database hosted on AWS. It enables users to perform various banking operations like account management, transactions, and more, etc.
 
 ## Features
 
