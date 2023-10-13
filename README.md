@@ -37,12 +37,16 @@ Before you begin, ensure you have the following prerequisites:
    ```bash
    git clone https://github.com/yourusername/banking-app.git
    cd banking-app
+   ```
 
 ### Frontend (React)
 
-```bash
-cd frontend
-npm install
+   ```bash
+   cd frontend
+   npm install
+   ```
+
+
 Backend (Node.js/Express)
 
 ```bash
@@ -51,6 +55,7 @@ npm install
 Configuration
 Set up your AWS RDS instance with a MySQL database and note down the connection details.
 Create a .env file in the backend directory and configure the following environment variables:
+```
 
 ```bash
 env
@@ -58,6 +63,7 @@ DB_HOST=your-db-host
 DB_USER=your-db-username
 DB_PASSWORD=your-db-password
 DB_DATABASE=your-db-name
+```
 
 ###Usage
 Start the backend server:
