@@ -39,7 +39,7 @@ Before you begin, ensure you have the following prerequisites:
    cd banking-app
    ```
 
-### Frontend (React)
+#### Frontend (React)
 
    ```bash
    cd frontend
@@ -47,7 +47,7 @@ Before you begin, ensure you have the following prerequisites:
    ```
 
 
-Backend (Node.js/Express)
+#### Backend (Node.js/Express)
 
 ```bash
 cd backend
